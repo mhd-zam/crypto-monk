@@ -1,0 +1,22 @@
+.volume{
+    height: 100px;
+    width: 100%;
+   background-color: EF972C;
+   color: white;
+   font-size: xx-large;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .volume{
+        height: 200px;
+        width: 100%;
+       background-color: EF972C;
+       color: white;
+       font-size: xx-large;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       text-align: center;
+    }
+
+}
